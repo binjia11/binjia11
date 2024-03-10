@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Researcher</title>
+    <title>About on Researcher</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Researcher</description>
+    <description>Recent content in About on Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Mar 2024 15:45:30 +0100</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sun, 10 Mar 2024 15:45:30 +0100</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>About Me This is a Hugo based resume template. You can find the full source code on GitHub.&#xA;Research Interest Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis1. Mauris id urna ante.&#xA;Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit2. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.</description>
-    </item>
   </channel>
 </rss>
